@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 こんにちは、kasaman04です！
 
-<!--
-**kasaman04/kasaman04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+現在「1日1アプリ」チャレンジ中の開発者です。  
+ClaudeCode や GitHub Pagesを活用して、**しょーもないけど面白いアプリ**を毎日つくっています。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 最近作ったアプリたち
+
+
+---
+
+## 🚀 やっていること
+
+- ClaudeCode を使った爆速アプリ開発  
+- GitHub Pages での即日公開  
+- #MudaAppDay タグで毎日Xに投稿中
+
+---
+
+## 💌 お仕事・ご相談・コラボ
+
+- Webアプリ開発・コーディング・生成AIまわりのご相談OKです  
+- お問い合わせフォーム：👉 [準備中 or Notionリンクなど]
+
+お気軽にご連絡ください！
