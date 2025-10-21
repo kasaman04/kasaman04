@@ -1,0 +1,10 @@
+{
+  "name": "like-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node likecount.js",
+    "postinstall": "npx playwright install chromium"
+  },
+  "dependencies": { "playwright": "^1.47.2" }
+}
